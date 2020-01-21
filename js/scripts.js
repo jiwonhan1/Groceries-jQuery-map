@@ -22,8 +22,5 @@ $(document).ready(function(){
       $("#b").text(newString[1]);
       $("#c").text(newString[2]);
 
-
-
-
     });
 });  
